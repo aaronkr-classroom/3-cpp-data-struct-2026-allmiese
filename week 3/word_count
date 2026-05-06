@@ -22,6 +22,10 @@ int main (void) {
         count (words.begin(), words.end(), words[i]) << endl;
     }
 
+    // Hello hello hello I love my summer summer is my girlfriend
+    // Hello: 1
+    // Hello: 2
+
     cout << "Words: " << words.size();
 
     return 0;
